@@ -82,4 +82,9 @@
 
 
 ## 
-![Pac-Man Animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-pacman.svg)
+---
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YashCh/YashCh/output/github-contribution-grid-snake-pacman.svg" alt="Pac-Man animation" />
+</div>
