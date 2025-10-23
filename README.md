@@ -1,11 +1,17 @@
-<h2 align="center">Hi 👋! I'm Yashaswi</h2>
+<h2 align="center">Hi 👋! I'm Yashaswi ⋆˚✿˖°</h2>
+
+
+
+⠀⠀⠀⠀⠀
+
+
 <h4 align="center">💻 Java Backend Developer | 🌐 Web Enthusiast | ☁️ Cloud Learner</h4>
 
 ---
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9oeWs5bGlmaXB0cHpqY2o0bmNzYWo3NXhpdGJna2ZydG91dXQwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/BEAUgdz2vtLubrfTc3/giphy.gif" alt="coding gif" />
 
-### 🚀 Tech Stack
+###  ᯓ★ Tech Stack
 
 <div align="left">
 <table>
@@ -48,7 +54,7 @@
 
 ---
 
-### 📫 Connect with Me
+### ⋆ 𐙚 ̊. Connect with Me
 
 <div align="center">
   <a href="mailto:yashaswich9@gmail.com" target="_blank">
@@ -64,19 +70,13 @@
 
 ---
 
-### ⚡ A Little About Me
+### ᵔ ᵕ ᵔ A Little About Me
 - 🌱 Currently learning **Spring Boot, Docker, and Cloud**  
 - 💬 Ask me about **Java, REST APIs, or Web Development**  
-- ☕ Fun fact: *I debug my code more than I write it* 😅
+- ☕ What do you call an sick eagle?  illeagl >_<
 
 ---
 
-### 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashch9/yashch9/output/dist/github-contribution-grid-snake-pacman.svg" alt="Pac-Man contribution animation" />
-</div>
 
 
 
