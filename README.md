@@ -8,7 +8,6 @@
 ### 🚀 Tech Stack
 
 <div align="left">
-
 <table>
 <tr>
 <td align="center" width="80">
@@ -45,7 +44,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -73,7 +71,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yashch9/yashch9/output/github-contribution-grid-snake-pacman.svg" alt="Pac-Man contribution animation" />
@@ -81,10 +79,7 @@
 
 
 
-## 
----
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YashCh/YashCh/output/github-contribution-grid-snake-pacman.svg" alt="Pac-Man animation" />
-</div>
+
+
