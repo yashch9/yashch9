@@ -76,9 +76,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashCh&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashCh&theme=tokyonight" height="160" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/yashch9/yashch9/output/github-contribution-grid-snake-pacman.svg" alt="Pac-Man contribution animation" />
 </div>
+
 
 
 ## 
