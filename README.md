@@ -74,12 +74,10 @@
 ### 
 
 
-<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/yashch9/yashch9/output/dist/github-contribution-grid-snake-pacman.svg" alt="Pac-Man contribution animation" />
 </div>
 
-<br>
 
 
 
